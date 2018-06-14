@@ -29,8 +29,6 @@ keywords = ["option", "utility", "no-std"]
 
 license = "0BSD"
 
-maintenance = { status = "passively-maintained" }
-
 include = [
     "**/*.rs",
     "Cargo.toml",
